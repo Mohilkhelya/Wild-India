@@ -780,6 +780,7 @@ html{
   left: 100px;
 }
 .carousel-indicators{
+  margin-top:150px;
   width: 100px;
   left: 120px;
 }
