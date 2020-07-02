@@ -774,7 +774,7 @@ html{
 }
 .carousel-caption{
   text-align: center;
-  top: 300px;
+  top: 350px;
   width: 500px;
   height: 400px;
   left: 100px;
@@ -859,6 +859,7 @@ html{
   font-size: 2.7rem;
 }
 #zoo .content h3{
+  color:#fff;
   font-size: 1.8rem;
 }
 #zoo button{
