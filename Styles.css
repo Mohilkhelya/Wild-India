@@ -543,10 +543,12 @@ text-transform: uppercase;
   width: 750px;
 }
 #zoo .content h2{
+  color: #f7f7ee;
   font-size: 1.7rem;
   font-weight: bold;
 }
 #zoo .content h3{
+  color: #f7f7ee;
   font-size: 1rem;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -780,7 +782,7 @@ html{
   left: 100px;
 }
 .carousel-indicators{
-  top:600px;
+  top:660px;
   width: 100px;
   left: 120px;
 }
